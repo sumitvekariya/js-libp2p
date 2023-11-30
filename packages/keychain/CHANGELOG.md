@@ -11,6 +11,23 @@
 
 * **dev:** bump aegir from 38.1.8 to 39.0.10 ([#70](https://github.com/libp2p/js-libp2p-keychain/issues/70)) ([4da4a08](https://github.com/libp2p/js-libp2p-keychain/commit/4da4a08b86f436c36e2fae48ecc48817e9b8066f))
 
+## [4.0.0](https://www.github.com/libp2p/js-libp2p/compare/keychain-v3.0.8...keychain-v4.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove libp2p.keychain (#2084)
+
+### Bug Fixes
+
+* restore lost commits ([#2268](https://www.github.com/libp2p/js-libp2p/issues/2268)) ([5775f1d](https://www.github.com/libp2p/js-libp2p/commit/5775f1df4f5561500e622dc0788fdacbc74e2755))
+* use logging component everywhere ([#2228](https://www.github.com/libp2p/js-libp2p/issues/2228)) ([e5dfde0](https://www.github.com/libp2p/js-libp2p/commit/e5dfde0883191c93903ca552433f177d48adf0b3))
+
+
+### Code Refactoring
+
+* remove libp2p.keychain ([#2084](https://www.github.com/libp2p/js-libp2p/issues/2084)) ([125c84b](https://www.github.com/libp2p/js-libp2p/commit/125c84bb8a30ac986fb5aed0a4de23bc806d3aea))
+
 ## [4.0.0](https://www.github.com/libp2p/js-libp2p/compare/keychain-v3.0.8...keychain-v4.0.0) (2023-11-28)
 
 

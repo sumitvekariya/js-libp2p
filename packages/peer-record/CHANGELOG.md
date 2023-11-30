@@ -11,6 +11,13 @@
 
 * **dev:** bump aegir from 38.1.8 to 39.0.10 ([#64](https://github.com/libp2p/js-libp2p-peer-record/issues/64)) ([ba3ac38](https://github.com/libp2p/js-libp2p-peer-record/commit/ba3ac38c79e9449a75c0a54fefe289ee9e2c78fb))
 
+### [6.0.10](https://www.github.com/libp2p/js-libp2p/compare/peer-record-v6.0.9...peer-record-v6.0.10) (2023-11-30)
+
+
+### Bug Fixes
+
+* restore lost commits ([#2268](https://www.github.com/libp2p/js-libp2p/issues/2268)) ([5775f1d](https://www.github.com/libp2p/js-libp2p/commit/5775f1df4f5561500e622dc0788fdacbc74e2755))
+
 ### [6.0.10](https://www.github.com/libp2p/js-libp2p/compare/peer-record-v6.0.9...peer-record-v6.0.10) (2023-11-28)
 
 

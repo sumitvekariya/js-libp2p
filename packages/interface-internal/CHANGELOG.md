@@ -1,5 +1,12 @@
 # Changelog
 
+### [0.1.10](https://www.github.com/libp2p/js-libp2p/compare/interface-internal-v0.1.9...interface-internal-v0.1.10) (2023-11-30)
+
+
+### Bug Fixes
+
+* restore lost commits ([#2268](https://www.github.com/libp2p/js-libp2p/issues/2268)) ([5775f1d](https://www.github.com/libp2p/js-libp2p/commit/5775f1df4f5561500e622dc0788fdacbc74e2755))
+
 ### [0.1.10](https://www.github.com/libp2p/js-libp2p/compare/interface-internal-v0.1.9...interface-internal-v0.1.10) (2023-11-28)
 
 

@@ -11,6 +11,14 @@
 
 * **dev:** bump aegir from 38.1.8 to 39.0.10 ([#233](https://github.com/libp2p/js-libp2p-floodsub/issues/233)) ([e073298](https://github.com/libp2p/js-libp2p-floodsub/commit/e073298f324a89656b0ca6d9a629e60eaedc7873))
 
+### [8.0.14](https://www.github.com/libp2p/js-libp2p/compare/floodsub-v8.0.13...floodsub-v8.0.14) (2023-11-30)
+
+
+### Bug Fixes
+
+* restore lost commits ([#2268](https://www.github.com/libp2p/js-libp2p/issues/2268)) ([5775f1d](https://www.github.com/libp2p/js-libp2p/commit/5775f1df4f5561500e622dc0788fdacbc74e2755))
+* use logging component everywhere ([#2228](https://www.github.com/libp2p/js-libp2p/issues/2228)) ([e5dfde0](https://www.github.com/libp2p/js-libp2p/commit/e5dfde0883191c93903ca552433f177d48adf0b3))
+
 ### [8.0.14](https://www.github.com/libp2p/js-libp2p/compare/floodsub-v8.0.13...floodsub-v8.0.14) (2023-11-28)
 
 

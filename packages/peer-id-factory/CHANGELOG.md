@@ -5,6 +5,13 @@
 
 * update README.md ([#59](https://github.com/libp2p/js-libp2p-peer-id/issues/59)) ([aba6483](https://github.com/libp2p/js-libp2p-peer-id/commit/aba6483dad028ee5c24bfc01135b77568666cfd3))
 
+### [3.0.9](https://www.github.com/libp2p/js-libp2p/compare/peer-id-factory-v3.0.8...peer-id-factory-v3.0.9) (2023-11-30)
+
+
+### Bug Fixes
+
+* restore lost commits ([#2268](https://www.github.com/libp2p/js-libp2p/issues/2268)) ([5775f1d](https://www.github.com/libp2p/js-libp2p/commit/5775f1df4f5561500e622dc0788fdacbc74e2755))
+
 ### [3.0.9](https://www.github.com/libp2p/js-libp2p/compare/peer-id-factory-v3.0.8...peer-id-factory-v3.0.9) (2023-11-28)
 
 

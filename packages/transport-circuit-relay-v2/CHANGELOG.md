@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/libp2p/js-libp2p/compare/circuit-relay-v2-v1.0.0...circuit-relay-v2-v2.0.0) (2023-11-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* imports from `libp2p/circuit-relay` should be updated to `@libp2p/circuit-relay-v2`
+
+### Bug Fixes
+
+* dial relay when we are dialed via it but have no reservation ([#2252](https://www.github.com/libp2p/js-libp2p/issues/2252)) ([d729d66](https://www.github.com/libp2p/js-libp2p/commit/d729d66a54a272dfe11eda8836a555a187cc9c39))
+* restore lost commits ([#2268](https://www.github.com/libp2p/js-libp2p/issues/2268)) ([5775f1d](https://www.github.com/libp2p/js-libp2p/commit/5775f1df4f5561500e622dc0788fdacbc74e2755))
+* use logging component everywhere ([#2228](https://www.github.com/libp2p/js-libp2p/issues/2228)) ([e5dfde0](https://www.github.com/libp2p/js-libp2p/commit/e5dfde0883191c93903ca552433f177d48adf0b3))
+
+
+### Code Refactoring
+
+* extract circuit relay v2 to separate module ([#2222](https://www.github.com/libp2p/js-libp2p/issues/2222)) ([24afba3](https://www.github.com/libp2p/js-libp2p/commit/24afba30004fb7f24af1f0180229bb164340f00b))
+
 ## 1.0.0 (2023-11-28)
 
 
