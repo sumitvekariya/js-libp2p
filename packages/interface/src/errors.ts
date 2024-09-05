@@ -248,3 +248,10 @@ export class UnsupportedKeyTypeError extends Error {
     this.name = 'UnsupportedKeyTypeError'
   }
 }
+
+export class NotImplementedError extends Error {
+  constructor (message = 'Not implemented') {
+    super(message)
+    this.name = 'NotImplementedError'
+  }
+}
